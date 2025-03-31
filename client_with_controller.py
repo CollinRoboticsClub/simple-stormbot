@@ -3,8 +3,8 @@ import time
 
 from f310 import F310
 
-# HOST = "127.0.0.1"  # The server's hostname or IP address
-HOST = "romi.local"  # The server's hostname or IP address
+HOST = "127.0.0.1"  # The server's hostname or IP address
+# HOST = "romi.local"  # The server's hostname or IP address
 PORT = 12345  # The port used by the server
 
 
